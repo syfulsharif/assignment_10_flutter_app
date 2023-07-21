@@ -14,7 +14,7 @@ class _HomePageViewState extends State<HomePageView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('News Feed', style: TextStyle(color: Colors.white),),
+        title: const Text('Profile', style: TextStyle(color: Colors.white),),
         centerTitle: true,
         backgroundColor: Colors.blue,
       ),

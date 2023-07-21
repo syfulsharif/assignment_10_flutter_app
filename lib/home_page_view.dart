@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:livetest10/landscape_view.dart';
-import 'package:livetest10/portrait_view.dart';
+import 'package:assignment10/landscape_view.dart';
+import 'package:assignment10/portrait_view.dart';
 
 class HomePageView extends StatefulWidget {
   const HomePageView({super.key});

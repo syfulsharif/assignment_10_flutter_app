@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:livetest10/card.dart';
+
 
 class LandScapeView extends StatefulWidget {
   const LandScapeView({super.key});
@@ -17,13 +17,6 @@ class _LandScapeViewState extends State<LandScapeView> {
         child: Wrap(
           alignment: WrapAlignment.center,
           children: [
-            myHalfWidthCard(),
-            myHalfWidthCard(),
-            myHalfWidthCard(),
-            myHalfWidthCard(),
-            myHalfWidthCard(),
-            myHalfWidthCard(),
-            myHalfWidthCard(),
           ],
         ),
       ),
